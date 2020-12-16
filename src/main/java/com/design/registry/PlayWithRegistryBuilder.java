@@ -9,7 +9,9 @@ import com.design.factory.model.Triangle;
 
 import java.util.function.Consumer;
 
-
+/**
+ * @author Ajithlal
+ */
 public class PlayWithRegistryBuilder {
 
     public static void main(String[] args) {

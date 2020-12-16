@@ -2,6 +2,9 @@ package com.design.chaining;
 
 import com.design.chaining.function.Consumer;
 
+/**
+ * @author Ajithlal
+ */
 public class PlayWithConsumer {
     public static void main(String[] args) {
         Consumer<String> c1= s -> System.out.println("c1 : "+s);

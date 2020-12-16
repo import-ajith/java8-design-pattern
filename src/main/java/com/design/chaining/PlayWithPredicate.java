@@ -2,6 +2,9 @@ package com.design.chaining;
 
 import com.design.chaining.function.Predicate;
 
+/**
+ * @author Ajithlal
+ */
 public class PlayWithPredicate {
     public static void main(String[] args) {
 

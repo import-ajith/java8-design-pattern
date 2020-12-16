@@ -4,6 +4,9 @@ import com.design.chaining.function.Function;
 import com.design.comparator.model.Person;
 import com.design.comparator.util.Comparator;
 
+/**
+ * @author Ajithlal
+ */
 public class PlayWithComparator {
     public static void main(String[] args) {
         Person person1=new Person(21,"Ajith");

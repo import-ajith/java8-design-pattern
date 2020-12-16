@@ -4,6 +4,9 @@ import com.design.chaining.model.Meteo;
 
 import java.util.Objects;
 
+/**
+ * @author Ajithlal
+ */
 @FunctionalInterface
 public interface Function<T,R> {
 

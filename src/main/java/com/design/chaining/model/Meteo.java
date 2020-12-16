@@ -1,5 +1,8 @@
 package com.design.chaining.model;
 
+/**
+ * @author Ajithlal
+ */
 public class Meteo {
     private int temperature;
 

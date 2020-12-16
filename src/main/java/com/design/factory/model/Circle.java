@@ -2,6 +2,9 @@ package com.design.factory.model;
 
 import java.awt.*;
 
+/**
+ * @author Ajithlal
+ */
 public class Circle {
 
     private Color color;

@@ -2,6 +2,9 @@ package com.design.chaining.function;
 
 import java.util.Objects;
 
+/**
+ * @author Ajithlal
+ */
 @FunctionalInterface
 public interface Consumer <T>{
     void accept(T t);

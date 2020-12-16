@@ -1,5 +1,8 @@
 package com.design.comparator.model;
 
+/**
+ * @author Ajithlal
+ */
 public class Person {
     private int age;
     private String name;

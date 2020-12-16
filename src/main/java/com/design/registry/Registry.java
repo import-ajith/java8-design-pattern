@@ -10,6 +10,9 @@ import java.util.Map;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
+/**
+ * @author Ajithlal
+ */
 public interface Registry<T> {
 
 	Factory<? extends T> buildShapeFactory(String shape);

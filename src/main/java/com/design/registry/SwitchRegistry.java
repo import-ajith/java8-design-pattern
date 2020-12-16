@@ -7,6 +7,9 @@ import com.design.factory.model.Shape;
 import com.design.factory.model.Square;
 import com.design.factory.model.Triangle;
 
+/**
+ * @author Ajithlal
+ */
 public class SwitchRegistry {
 
 	public Factory<? extends Shape> buildShapeFactory(String shape) {

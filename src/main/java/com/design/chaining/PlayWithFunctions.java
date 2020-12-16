@@ -3,6 +3,9 @@ package com.design.chaining;
 import com.design.chaining.function.Function;
 import com.design.chaining.model.Meteo;
 
+/**
+ * @author Ajithlal
+ */
 public class PlayWithFunctions {
     public static void main(String[] args) {
 
