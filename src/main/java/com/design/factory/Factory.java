@@ -29,7 +29,7 @@ public interface Factory<T> extends Supplier<T> {
         return ()->new Circle(colr);
     }*/
      /**
-     * Powershell application
+     * Partial  application
      * functionl acts as a supplier
      * */
     /*static Factory<Circle> createFactory(Color colr) {
